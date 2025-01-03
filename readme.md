@@ -1,4 +1,4 @@
-Here’s an enhanced and more detailed version of your README, designed to be visually appealing, professional, and informative:
+You're absolutely right! Let me update the README to include the steps to start the server:
 
 ---
 
@@ -51,4 +51,34 @@ Follow these steps to get the application up and running on your system.
    npm install
    ```
 
-3. **Start the server**
+3. **Start the server**  
+   To launch the server, use the following command:
+   ```bash
+   node server.js
+   ```
+
+4. **Access the application**  
+   Open your preferred web browser and navigate to:
+   ```
+   http://localhost:3000
+   ```
+   If you're hosting on a remote device, replace `localhost` with the device's IP address.
+
+---
+
+## 📖 Usage
+
+1. Open the application in your web browser.
+2. Share the link (e.g., `http://<your-ip>:3000`) with friends so they can join the chatroom.
+3. Use the text, voice, and video chat features to communicate.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and distribute the code as per the license terms.
+
+---
+
+This updated README provides clear instructions and is polished for usability and professionalism!
